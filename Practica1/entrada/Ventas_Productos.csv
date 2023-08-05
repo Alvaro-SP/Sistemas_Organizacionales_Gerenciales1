@@ -1,0 +1,101 @@
+ID_Producto,Nombre_Producto,Cantidad_Vendida,Precio_Unitario,Total_Ventas,ID_Empleado
+1,Laptop Dell XPS 13,50,1200,60000,101
+2,Monitor LG 27",30,350,10500,102
+3,Teclado Logitech,100,40,4000,105
+4,Mochila Ejecutiva,70,50,3500,106
+5,Mouse Inalámbrico,120,25,3000,108
+6,Smartphone Samsung Galaxy S21,40,800,32000,110
+7,Audífonos Inalámbricos Sony,90,80,7200,112
+8,Impresora Multifuncional HP,25,200,5000,114
+9,Tablet Lenovo Tab M10,60,150,9000,116
+10,Reloj Inteligente Fitbit,80,100,8000,118
+11,Proyector Epson HD,15,400,6000,121
+12,Escáner Canon LiDE,35,70,2450,124
+13,Cámara DSLR Nikon,20,600,12000,127
+14,Disco Duro Externo 1TB,50,90,4500,130
+15,Memoria USB Kingston 32GB,100,20,2000,133
+16,Teclado y Mouse Inalámbrico Logitech,70,60,4200,135
+17,Monitor Dell 24",40,300,12000,137
+18,Ratón Gaming Razer,55,50,2750,140
+19,Auriculares Gaming HyperX,65,75,4875,143
+20,Router WiFi TP-Link,30,100,3000,146
+21,Laptop Lenovo ThinkPad,55,900,49500,149
+22,Monitor ASUS 32",25,400,10000,102
+23,Teclado Mecánico Redragon,80,50,4000,105
+24,Cámara de Seguridad IP,120,70,8400,108
+25,Smart TV Samsung 55",40,1200,48000,111
+26,Impresora láser Brother,30,180,5400,114
+27,Audífonos Bluetooth JBL,50,60,3000,117
+28,Tablet Huawei MediaPad,65,130,8450,120
+29,Ratón Inalámbrico HP,85,30,2550,123
+30,Auriculares Inalámbricos Apple,90,120,10800,126
+31,Ruteador Gaming ASUS,40,150,6000,129
+32,Teclado Ergonómico Microsoft,70,80,5600,132
+33,Monitor Acer 27",55,250,13750,135
+34,Disco Duro SSD 500GB,20,100,2000,138
+35,Memoria MicroSD SanDisk 64GB,120,25,3000,141
+36,Webcam Logitech HD,30,50,1500,144
+37,Altavoces Bluetooth Bose,40,200,8000,147
+38,Smartphone iPhone 12,25,1000,25000,100
+39,Audífonos Inalámbricos Beats,50,180,9000,103
+40,Tablet Samsung Galaxy Tab A,60,140,8400,106
+41,Monitor BenQ 24",90,120,10800,109
+42,Ratón Ergonómico Evoluent,70,90,6300,112
+43,Cámara Deportiva GoPro,40,300,12000,115
+44,Laptop HP Pavilion,35,800,28000,118
+45,Impresora Epson EcoTank,80,150,12000,121
+46,Smart TV LG 43",60,500,30000,124
+47,Teclado Retroiluminado Razer,40,70,2800,127
+48,Disco Duro Externo 2TB,50,120,6000,130
+49,Microfono USB Blue Yeti,30,200,6000,133
+50,Cámara Réflex Canon,25,800,20000,136
+51,Monitor Curvo Samsung 32",45,350,15750,139
+52,Audífonos Inalámbricos Sennheiser,60,100,6000,142
+53,Router Mesh TP-Link,70,80,5600,245
+54,Teclado Mecánico Corsair,80,60,4800,248
+55,Smartphone Xiaomi Redmi Note 9,100,180,18000,101
+56,Tablet Amazon Fire,45,80,3600,104
+57,Ratón Gamer Logitech G502,70,90,6300,107
+58,Audífonos Inalámbricos Skullcandy,50,70,3500,110
+59,Monitor LG 24",80,200,16000,113
+60,Teclado Inalámbrico Apple,30,120,3600,116
+61,Cámara de Seguridad CCTV,90,60,5400,119
+62,Laptop Acer Aspire,40,700,28000,122
+63,Impresora láser Samsung,55,250,13750,125
+64,Smart TV Sony 50",25,600,15000,128
+65,Ratón Inalámbrico Logitech M590,70,40,2800,131
+66,Auriculares Inalámbricos Jabra,60,80,4800,134
+67,Tablet Lenovo Yoga,80,140,11200,137
+68,Monitor HP 27",30,300,9000,140
+69,Disco Duro Externo 4TB,40,150,6000,143
+70,Memoria USB SanDisk 128GB,50,30,1500,146
+71,Webcam Microsoft LifeCam,25,50,1250,149
+72,Altavoces Bluetooth JBL Flip,70,100,7000,102
+73,Smartphone Google Pixel 4a,80,200,16000,105
+74,Audífonos Inalámbricos JBL Free,45,80,3600,108
+75,Tablet Huawei MatePad,30,180,5400,111
+76,Monitor ASUS 24",90,150,13500,114
+77,Teclado Mecánico SteelSeries,55,70,3850,117
+78,Cámara Deportiva SJCAM,40,120,4800,120
+79,Laptop Microsoft Surface,25,900,22500,123
+80,Impresora Canon PIXMA,60,80,4800,126
+81,Smart TV TCL 55",70,400,28000,129
+82,Ratón Gaming Corsair,80,60,4800,132
+83,Auriculares Inalámbricos Sony WH,50,250,12500,135
+84,Router WiFi Linksys,100,80,8000,138
+85,Teclado y Mouse Microsoft,30,100,3000,141
+86,Monitor Dell 21",70,200,14000,144
+87,Disco Duro Externo 1TB Seagate,60,90,5400,147
+88,Microfono USB Samson Go,45,50,2250,150
+89,Cámara Compacta Sony,40,300,12000,103
+90,Laptop ASUS ROG,70,1000,70000,106
+91,Impresora HP DeskJet,80,120,9600,109
+92,Smart TV Panasonic 40",30,500,15000,112
+93,Ratón Inalámbrico Microsoft,25,30,750,115
+94,Auriculares Gaming SteelSeries,55,80,4400,118
+95,Tablet Xiaomi Mi Pad,60,140,8400,121
+96,Monitor AOC 27",40,250,10000,124
+97,Teclado Inalámbrico Logitech K780,50,120,6000,127
+98,Cámara Réflex Nikon,25,700,17500,130
+99,Smartphone OnePlus 9,80,300,24000,133
+100,Altavoces Bluetooth Sony,70,200,14000,136
