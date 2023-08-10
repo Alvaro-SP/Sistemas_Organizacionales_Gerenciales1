@@ -82,6 +82,7 @@ SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 
 
+DROP PROCEDURE IF EXISTS obtenertop3;
 DELIMITER //
 CREATE PROCEDURE obtenertop3()
 BEGIN
@@ -90,11 +91,12 @@ FROM empleados e
 JOIN ventas_productos v ON e.ID_Empleado = v.ID_Empleado 
 JOIN evaluaciones ev ON e.ID_Empleado = ev.ID_Empleado 
 GROUP BY e.Nombre
-ORDER BY MaxProductividad DESC, SumaTotalVentas DESC, MaxEvaluacion DESC LIMIT 3;
+ORDER BY MaxProductividad DESC, MaxEvaluacion DESC, SumaTotalVentas DESC LIMIT 3;
 
 END //
 DELIMITER ;
 
+DROP PROCEDURE IF EXISTS obtenertop5;
 DELIMITER //
 CREATE PROCEDURE obtenertop5()
 BEGIN
@@ -107,6 +109,7 @@ ORDER BY MaxProductividad ASC, MaxEvaluacion ASC, SumaTotalVentas ASC LIMIT 5;
 END //
 DELIMITER ;
 
+DROP PROCEDURE IF EXISTS topgen;
 DELIMITER //
 CREATE PROCEDURE topgen()
 BEGIN
@@ -119,4 +122,3 @@ ORDER BY MaxProductividad DESC, SumaTotalVentas DESC, MaxEvaluacion DESC;
 
 END //
 DELIMITER ;
-
